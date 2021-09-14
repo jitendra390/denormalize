@@ -1,0 +1,3 @@
+com/umg/denormalize/options/DataDenormalizeOptions.class
+com/umg/denormalize/batch/DataDenormalizePipeline.class
+com/umg/denormalize/common/FileNames.class
